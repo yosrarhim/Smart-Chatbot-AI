@@ -1,0 +1,8 @@
+flask
+transformers>=4.30
+torch
+sentence-transformers
+faiss-cpu
+python-dotenv
+requests
+accelerate
